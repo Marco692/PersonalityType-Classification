@@ -1,4 +1,4 @@
-# COMP5046 Assignment 1 (20 marks)
+# COMP5046 Assignment 1 (18.5/20 marks)
 <b>Assingment 1 is an individual assessment</b>
 
 <h2>Submission Due: April 17th, 2022 (Sunday, 11:59PM)</h2>
