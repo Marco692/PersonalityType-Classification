@@ -1,5 +1,5 @@
 # COMP5046 Assignment 1 (18.5/20 marks)
-<b>Assingment 1 is an individual assessment</b>
+<b>Assingment 1 is an individual assessment</b> 
 
 <h2>Submission Due: April 17th, 2022 (Sunday, 11:59PM)</h2>
 <i>We originally planned to have the due date as 14th of April, but changed to the 17th as it would be nicer for students who work on weekdays.</i>
